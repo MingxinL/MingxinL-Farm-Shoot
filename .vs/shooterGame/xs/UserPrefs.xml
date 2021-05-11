@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{F9EBB51C-3C51-44FB-CDAA-37FE97F5ED66}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/EnemyController.cs">
+    <Files>
+      <File FileName="Assets/scripts/BulletController.cs" Line="56" Column="10" />
+      <File FileName="Assets/scripts/TargetMovement.cs" />
+      <File FileName="Assets/scripts/EnemyHealthController.cs" />
+      <File FileName="Assets/scripts/PlayerController.cs" />
+      <File FileName="Assets/scripts/EnemyController.cs" Line="31" Column="1" />
+      <File FileName="Assets/scripts/UIController.cs" />
+      <File FileName="Assets/scripts/CheckPointController.cs" />
+      <File FileName="Assets/scripts/HealthPickUpController.cs" />
+      <File FileName="Assets/scripts/Gun.cs" />
+      <File FileName="Assets/scripts/Pickups/AmmoPickUp.cs" />
+      <File FileName="Assets/scripts/PlayerHealthController.cs" />
+      <File FileName="Assets/scripts/MonsterController.cs" />
+      <File FileName="Assets/scripts/CameraController.cs" />
+      <File FileName="Assets/scripts/MainMenu.cs" />
+      <File FileName="Assets/scripts/Pause.cs" />
+      <File FileName="Assets/scripts/GameManager.cs" />
+      <File FileName="Assets/scripts/Sucess.cs" />
+      <File FileName="Assets/scripts/Exit.cs" />
+      <File FileName="Assets/scripts/AudioManger.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="shooterGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="Pickups" expanded="True" />
+                <Node name="EnemyController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c71f791f-c0ad-4d57-952a-5a53e5204d62" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
